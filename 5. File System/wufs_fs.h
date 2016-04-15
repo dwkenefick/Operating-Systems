@@ -1,7 +1,7 @@
 /*
  * Public declarations for WUFS data structures
  * (c) 2011 duane a. bailey
- *
+ * Working implementations by Dan Kenefick, 2011
  * General note:
  *   All WUFS on-disk struct field names have two letter (sb, in, de) prefixes.
  */
